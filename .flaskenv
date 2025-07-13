@@ -1,0 +1,3 @@
+FLASK_APP=run.py
+SECRET_KEY=a-different-secret-key-for-the-payment-service
+PAYSTACK_SECRET_KEY=your_real_paystack_secret_key_goes_here
